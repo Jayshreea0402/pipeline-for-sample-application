@@ -1,0 +1,6 @@
+DBNAME= pmg-logs2-database
+DBHOST= pmg-logs2-host
+SERVER_NAME = pmg-logs2-server
+DBUSER= gjqkhakwnw
+DBPASS= 15P3N682Q30LF147$
+SECRET_KEY = 2d26410bc909fa39e1d5cdf12628c576ac33a0e1ef6aa4c99a65c81f5d6bcb1b
