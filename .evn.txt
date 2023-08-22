@@ -1,5 +1,1 @@
-DBNAME= pmg-logs-database
-DBHOST= pmg-logs-host
-DBUSER= ipkourywcf
-DBPASS= 1Q3156F7M6Z00552$
-SECRET_KEY = e6860409ea26c951dd4a5be9e7d96ec8b6888461917318b704c7bda4e6fc9d7a
+
